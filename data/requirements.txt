@@ -1,0 +1,13 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+
+ipykernel=6.28.0
+matplotlib=3.8.0
+numpy=1.22.3
+imageio=2.33.1
+
+mindspore=2.2.11
+pytorch=2.2.1
+torchaudio=2.2.1
+torchvision=0.17.1
